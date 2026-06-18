@@ -67,6 +67,7 @@ body {
     background: none;
     margin-top: 20px;
     cursor: pointer;
+    color: #1a1a1a;
 }
 .hero img {
     width: 450px;
