@@ -346,8 +346,8 @@ body {
     .hero .content {
         width: 100%;
     }
-    .hero .content h1 {
-        font-size: 5rem;
+    .hero .content .headline {
+        font-size: 4.8rem;
     }
     .hero img {
         display: none;
